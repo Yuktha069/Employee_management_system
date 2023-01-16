@@ -6,11 +6,6 @@
  * DESCRPITION : This file defines the functions in the project menu 
  *               to perform various operations in the project database
  *
- * REVISION    :
- *
- * 	DATE		NAME		REASON
- *
- *       ----           -------         ------
  *
  *******************************************************************************************/
 
