@@ -16,7 +16,7 @@
 #include <mutex>
 #include <thread>
 #include "methods.cpp"
-#include "edit_func.cpp"
+#include "edit_function.cpp"
 #include "proj_func.cpp"
 using namespace std;
 using std::left;
