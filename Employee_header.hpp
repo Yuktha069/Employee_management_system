@@ -151,3 +151,10 @@ class PROJECT
 	protected:
 		char pr_name[PNAME];
 };
+
+list <SALARY> empsal_list;// Salary list Declaration
+SALARY obj;
+list <PROJECT> pr_list;
+PROJECT pr_obj;
+
+#endif
