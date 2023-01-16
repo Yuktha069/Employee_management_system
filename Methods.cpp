@@ -7,11 +7,6 @@
  * METHODS     : addemp, editemp, viewemp, delemp,addproj,editproj,viewproj,delproj,
  * 		 payreport,emp_with_3_proj_report,view_emp_rec,emp_salary_list,query
  *
- * REVISION    :
- *
- * 	DATE		NAME		REASON
- *
- *       ----           -------         ------
  *
  ******************************************************************************************/       
 #include<iostream>
