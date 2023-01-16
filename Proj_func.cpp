@@ -26,7 +26,7 @@ using std::left;
  * DESCRIPTION    : This function  writes the contents in to the project database by
  *                  validating the input
  *
- * RETURN         : No Returns 
+ * RETURN         : void
  *
  ****************************************************************************************/
 
@@ -120,7 +120,7 @@ void PROJECT :: view()
  * DESCRIPTION    :  This function  edit the details of project in the project database by
  *                   validating the input
  *
- * RETURN         : NO RETURN
+ * RETURN         : void
  *
  ****************************************************************************************/
 
@@ -283,7 +283,7 @@ void PROJECT :: edit()
  *
  * DESCRIPTION    : This function  delete the details of project in the project database
  *
- * RETURN         : NO RETURN
+ * RETURN         : void
  *
  ****************************************************************************************/
 
