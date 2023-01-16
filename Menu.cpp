@@ -3,11 +3,6 @@
  *
  * * DESCRIPTION      : This file consists of Employee menu and project menu for performing various operations
  *
- * * REVISION HISTORY : 
- *              
- * 	DATE		NAME		REASON
- *
- * 	-----           -------         -------
  *
  * ******************************************************************************************************************/
 
